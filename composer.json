@@ -1,0 +1,18 @@
+{
+    "name": "syncsystem/sekisan",
+    "description": "This is a package develop for Sync Data from Sekisan System of Rakumo",
+    "type": "project",
+    "license": "Rakumo",
+    "autoload": {
+        "psr-4": {
+            "SyncSystem\\Sekisan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cuong NguyenHai",
+            "email": "cuongnguyen.work8797@gmail.com"
+        }
+    ],
+    "require": {}
+}
